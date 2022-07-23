@@ -1,0 +1,33 @@
+[
+  {
+    "id": 1,
+    "name": "Yure",
+    "price": 1.99,
+    "imgUrl": "/imgs/yure.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Caio",
+    "price": 2.99,
+    "imgUrl": "/imgs/caio.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Flavia",
+    "price": 3.99,
+    "imgUrl": "/imgs/flavia.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Amon",
+    "price": 4.99,
+    "imgUrl": "/imgs/amon.jpg"
+  },
+  {
+    "id": 5,
+    "name": "rot",
+    "price": 5.99,
+    "imgUrl": "/imgs/rot.jpg"
+  }
+
+]
